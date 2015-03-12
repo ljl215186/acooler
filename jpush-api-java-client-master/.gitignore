@@ -1,0 +1,12 @@
+bin/
+.settings/
+.metadata/
+target/
+test-output/
+
+*.class
+*.project
+*.DS_Store
+*.war
+*.ear
+
